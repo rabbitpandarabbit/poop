@@ -1,0 +1,83 @@
+body {
+    text-align: center;
+    background-image: linear-gradient(to right top, #33def1, #25d0d9, #18bbc1, #0aaaa7, #008f94);
+}
+
+#buttondiv {
+    background-color:rgb(146, 190, 252);
+    width:40%;
+    margin-left: 30%;
+    margin-right: 30%;
+    border-radius: 15%;
+    box-shadow: 2px rgb(131, 207, 230);
+    border: 2px solid rgb(103, 100, 255);
+}
+#abtmyfam {
+    font-size: 200%;
+    font-family: fantasy;
+}
+#fammembers {
+    font-size: 200%;
+    font-family: fantasy;
+}
+#gallery {
+    font-size: 200%;
+    font-family: fantasy;
+}
+#h11 {
+    font-size: 300%;
+    font-family:fantasy;
+    color:white;
+}
+p {
+    font-family: fantasy;
+    padding-left: 25%;
+    padding-right: 25%;
+    color: aliceblue;
+    font-size:30px;
+    
+}
+#h12 {
+    font-family: fantasy;
+    font-size: 40px;
+    color: aliceblue;
+}
+#abtdiv {
+    background-color: rgb(117, 117, 255);
+}
+#back {
+    font-family: fantasy;
+    width: 200px;
+    height: 75px;
+    font-size: 30px;
+}
+#h13 {
+    font-family: fantasy;
+    font-size: 40px;
+    color: aliceblue;
+}
+#h31 {
+    font-family:fantasy;
+    font-size:30;
+    color:aliceblue;
+}
+#memberImg {
+    border-radius: 30px;
+}
+#leftbutton1 {
+    width:50px;
+    height:50px;
+    font-size:25px;
+}
+#rightbutton1 {
+    width:50px;
+    height:50px;
+    font-size:25px;
+}
+hr {
+    width:30%;
+}
+#memberImg {
+    height: 500px;
+    width:900;
+}
